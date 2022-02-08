@@ -13,11 +13,9 @@
         <spring.version>3.2.6.RELEASE</spring.version>
         <hibernate.version>5.3.18.Final</hibernate.version>
         <tapestry.version>5.3.8</tapestry.version>
-         <struts2.version>2.3.23</struts2.version>
-        //original<struts2.version>2.3.20</struts2.version>
+        <struts2.version>2.3.20</struts2.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-//org.apache.struts:struts2-core@2.3.20.3
     <modules>
         <module>todolist-core</module>
         <module>todolist-web-common</module>
